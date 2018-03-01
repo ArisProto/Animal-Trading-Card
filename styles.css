@@ -1,0 +1,43 @@
+body {
+  font-family: Helvetica;
+}
+h1 {
+  font-style: bold;
+  text-align: left;
+  font-size: x-large;
+  border: 1px solid gray;
+  padding: 20px;
+  margin-bottom: 3px;
+  background-color: gray;
+}
+.container {
+  width: 300px;
+  border: 1px solid gray;
+  padding: 20px;
+  margin: 0 auto;
+  text-align: center;
+  box-shadow: 10px 10px 10px gray;
+  background-color: black
+}
+.interesting {
+  font-style: italic;
+}
+.caption {
+    margin: 0 auto;
+    padding: 25px;
+    border: 1px solid gray;
+    text-align: left;
+    background-color: gray;
+  font-size: smaller;
+}
+li {
+  text-align: left;
+}
+#nodots {
+  list-style-type: none;
+  padding-left: 0;
+}
+span {
+  font-weight: bold;
+  text-align: left;
+}
