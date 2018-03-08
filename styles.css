@@ -16,7 +16,7 @@ h1 {
 .container {
     width: 300px;
     border: 1px solid gray;
-    border-radius: 1rem;
+    border-radius: 1.5rem;
     padding: 20px;
     margin: 0 auto;
     text-align: center;
